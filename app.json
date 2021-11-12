@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Word Analyzer",
+    "slug": "Word Analyzer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Word Analyzer"
+}
